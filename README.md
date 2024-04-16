@@ -8,7 +8,7 @@ Analista de suporte e infraestrutura, formado em Tecnologia em Gestão da Tecnol
 
 <h3>Badges</h3>
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu_User-blue?logo=ubuntu&logoColor=52f705&color:FFF)]
+[![Ubuntu](https://img.shields.io/badge/Ubuntu_User-000?style=for-the-badge&logo=ubuntu&logoColor=52f705&color:FFF)]
 
 <h3>GitHub Stats</h3>
 
