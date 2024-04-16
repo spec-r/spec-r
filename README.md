@@ -10,6 +10,7 @@ Analista de suporte e infraestrutura, formado em Tecnologia em Gestão da Tecnol
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu_User-000?style=for-the-badge&logo=ubuntu&logoColor=52f705&color:FFF)](https://ubuntu.com/)
 [![UniFi Network Specialist](https://img.shields.io/badge/UniFi_Network_Specialist-000?style=for-the-badge&logo=ubiquiti&logoColor=52f705&color:FFF)](https://ui.com/)
+[![CyberOps Associate](https://img.shields.io/badge/CyberOps_Associate-000?style=for-the-badge&logo=cisco&logoColor=52f705&color:FFF)](https://www.youracclaim.com/badges/57ea064f-2f5d-4ddd-864f-339df0f22697?source=linked_in_profile)
 
 <h3>GitHub Stats</h3>
 
