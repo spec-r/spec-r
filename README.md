@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Reposit%C3%B3rio+do+Vitor" alt="Typing SVG" /></a>
 
-Analista de suporte e infraestrutura, formado em Tecnologia em Gestão da Tecnologia da Informação pela FATEC Faculdade de Tecnologia de Bragança Paulista em 2012, apaixonado por computadores desde pequeno.
+Analista de suporte e infraestrutura, formado em Tecnologia em Gestão da Tecnologia da Informação pela FATEC Faculdade de Tecnologia de Bragança Paulista em 2012, apaixonado por computadores desde a infância.
 
 <h3 align="left">Connect with me!</h3>
 
